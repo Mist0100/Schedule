@@ -6,5 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Calculator" />
+    <orderEntry type="module" module-name="VisualEngine_v3" />
+    <orderEntry type="module" module-name="step_fake" />
   </component>
 </module>

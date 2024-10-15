@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Calculator/.idea/Calculator.iml" filepath="$PROJECT_DIR$/../Calculator/.idea/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VisualEngine_v3/.idea/VisualEngine_v3.iml" filepath="$PROJECT_DIR$/../VisualEngine_v3/.idea/VisualEngine_v3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/schedule.iml" filepath="$PROJECT_DIR$/.idea/schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../step_fake/.idea/step_fake.iml" filepath="$PROJECT_DIR$/../step_fake/.idea/step_fake.iml" />
     </modules>
   </component>
 </project>
